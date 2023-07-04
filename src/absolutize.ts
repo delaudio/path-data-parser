@@ -1,4 +1,4 @@
-import { Segment } from './parser.js';
+import { Segment } from "./parser";
 
 // Translate relative commands to absolute commands
 export function absolutize(segments: Segment[]): Segment[] {

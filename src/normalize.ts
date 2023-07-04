@@ -1,4 +1,4 @@
-import { Segment } from './parser.js';
+import { Segment } from "./parser";
 
 // Normalize path to include only M, L, C, and Z commands
 export function normalize(segments: Segment[]): Segment[] {
