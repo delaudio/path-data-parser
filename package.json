@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pshihn/path-data-parser.git"
+    "url": "git+https://github.com/delaudio/path-data-parser.git"
   },
   "keywords": [
     "svg path parser",
@@ -25,9 +25,9 @@
   "author": "Preet Shihn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pshihn/path-data-parser/issues"
+    "url": "https://github.com/delaudio/path-data-parser/issues"
   },
-  "homepage": "https://github.com/pshihn/path-data-parser#readme",
+  "homepage": "https://github.com/delaudio/path-data-parser#readme",
   "devDependencies": {
     "tslint": "^6.1.1",
     "typescript": "^3.8.3"
