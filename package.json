@@ -2,10 +2,9 @@
   "name": "path-data-parser",
   "version": "0.1.0",
   "description": "Yet another SVG path parser. This one's tiny",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "scripts": {
-    "prepare": "npm run build",
     "build": "rm -rf build && tsc",
     "lint": "tslint -p tsconfig.json",
     "test": "echo \"Error: no test specified\" && exit 1"
