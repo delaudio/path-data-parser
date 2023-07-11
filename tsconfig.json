@@ -1,21 +1,23 @@
 {
   "compilerOptions": {
-    "target": "es2017",
-    "module": "es2015",
+    "outDir": "build",
+    "target": "es6",
+    "module": "CommonJS",
     "moduleResolution": "node",
     "lib": [
       "es2017"
     ],
     "declaration": true,
-    "outDir": "./lib",
     "baseUrl": ".",
     "strict": true,
     "strictNullChecks": true,
     "noImplicitAny": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
+    "allowSyntheticDefaultImports": true,
     "noImplicitReturns": true,
-    "noFallthroughCasesInSwitch": true
+    "noFallthroughCasesInSwitch": true,
+    "skipLibCheck": true,
   },
   "include": [
     "src/**/*.ts"
