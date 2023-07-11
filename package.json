@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/delaudio/path-data-parser#fork.git"
+    "url": "git+https://github.com/delaudio/path-data-parser#fork-build.git"
   },
   "keywords": [
     "svg path parser",
