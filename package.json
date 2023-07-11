@@ -2,8 +2,7 @@
   "name": "path-data-parser",
   "version": "0.1.0",
   "description": "Yet another SVG path parser. This one's tiny",
-  "main": "lib/index.js",
-  "module": "index.js",
+  "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
     "prepare": "npm run build",
